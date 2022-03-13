@@ -1,5 +1,4 @@
 import React from "react";
-const IMAGE_API = `https://image.tmdb.org/t/p/w1280`;
 
 const setVoteClass = (vote) => {
   if (vote >= 8) {
